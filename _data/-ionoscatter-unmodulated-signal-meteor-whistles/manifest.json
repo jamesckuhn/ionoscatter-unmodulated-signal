@@ -23,6 +23,14 @@
         "id": "https://jamesckuhn.github.io/ionoscatter-unmodulated-signal/-ionoscatter-unmodulated-signal-meteor-whistles/canvas-1/canvas",
         "type": "Canvas",
         "duration": 164.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jamesckuhn.github.io/ionoscatter-unmodulated-signal/-ionoscatter-unmodulated-signal-meteor-whistles/canvas-1/canvas/Annotation-layer.json",
+            "label": "Annotation layer"
+          }
+        ],
         "items": [
           {
             "id": "https://jamesckuhn.github.io/ionoscatter-unmodulated-signal/-ionoscatter-unmodulated-signal-meteor-whistles/canvas-1/paintings",
