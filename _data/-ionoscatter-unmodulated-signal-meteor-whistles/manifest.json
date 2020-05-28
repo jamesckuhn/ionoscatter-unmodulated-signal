@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://jamesckuhn.github.io/ionoscatter-unmodulated-signal/-ionoscatter-unmodulated-signal-meteor-whistles/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ " Ionoscatter Unmodulated Signal & Meteor Whistles" ] },
+    "label": { "en": [ " Ionoscatter Unmodulated Signal and Meteor Whistles" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/IonoscatterUnmodulatedSignalMeteorWhistlesu.s.recordingCompany",
         "type": "Text",
-        "label": { "en": [ "Home page for  Ionoscatter Unmodulated Signal & Meteor Whistles" ] },
+        "label": { "en": [ "Home page for  Ionoscatter Unmodulated Signal and Meteor Whistles" ] },
         "format": "text/html"
       }
     ],
