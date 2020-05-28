@@ -1,0 +1,12 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Ionoscatter Unmodulated Signal &amp; Meteor Whistles (U.S.Recording Company Panacoustic: June 2, 1958)" ] },
+    "summary": { "en": [ "Ten-inch acetate, 78 rpm.
+
+Track begins with unnamed narrator saying:
+&quot;This is a recording of reception of an unmodulated signal transmitted by ionospheric scatter. Reception was on an amplitude modulation receiver with a three kilocycle bandwidth. The background whistles result from meteoric doppler interference. Signal fading effects may be observed by noting the variations of background noise as the automatic gain control compensates for changes in signal intensity. Each recording is preceded by a statement of the approximate time at the receiver.&quot;" ] },
+    "items": [
+    ]
+}
